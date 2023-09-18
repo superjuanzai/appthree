@@ -2,7 +2,7 @@
   <div>
     <el-upload
       class="avatar-uploader"
-      action="http://47.94.4.201/index.php/index/qus/getquestionlist"
+      action="https://www.zzgoodqc.cn/index.php/index/qus/getquestionlist"
       :show-file-list="false"
       :on-success="handleAvatarSuccess"
       :before-upload="beforeAvatarUpload"
